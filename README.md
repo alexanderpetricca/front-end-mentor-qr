@@ -24,6 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [link](https://github.com/alexanderpetricca/front-end-mentor-qr)
+- Live URL: [link](https://alexanderpetricca.github.io/front-end-mentor-qr/)
 
 ## My process
 
@@ -32,9 +33,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5
 - CSS
 - SASS
-- Flexbox
 
 ## Author
 
 - Website - [Alexander Petricca](https://github.com/alexanderpetricca)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/alexanderpetricca)
+- Frontend Mentor - [@alexanderpetricca](https://www.frontendmentor.io/profile/alexanderpetricca)
